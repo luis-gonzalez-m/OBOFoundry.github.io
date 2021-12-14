@@ -3215,9 +3215,9 @@
                 "system": "git"
             },
             "contact": {
-                "email": "mah79@cam.ac.uk",
-                "github": "mah11",
-                "label": "Midori Harris"
+                "email": "vw253@cam.ac.uk",
+                "github": "ValWood",
+                "label": "Val Wood"
             },
             "description": "A structured controlled vocabulary for the anatomy of fungi.",
             "domain": "anatomy",
@@ -3825,9 +3825,9 @@
                 "source_url": "https://raw.githubusercontent.com/pombase/fypo/master/release/fypo.owl"
             },
             "contact": {
-                "email": "mah79@cam.ac.uk",
-                "github": "mah11",
-                "label": "Midori Harris"
+                "email": "vw253@cam.ac.uk",
+                "github": "ValWood",
+                "label": "Val Wood"
             },
             "depicted_by": "https://github.com/pombase/website/blob/master/src/assets/FYPO_logo_tiny.png",
             "description": "FYPO is a formal ontology of phenotypes observed in fission yeast.",
@@ -10086,13 +10086,14 @@
                     "ontology_purl": "http://purl.obolibrary.org/obo/idomal.obo"
                 }
             ],
+            "repository": "https://github.com/VEuPathDB-ontology/IDOMAL",
             "title": "Malaria Ontology"
         },
         {
             "activity_status": "inactive",
             "contact": {
                 "email": "louis@imbb.forth.gr",
-                "label": "C. Louis"
+                "label": "Christos (Kitsos) Louis"
             },
             "description": "Application ontology for entities related to insecticide resistance in mosquitos",
             "domain": "environment",
@@ -10109,6 +10110,7 @@
                     "ontology_purl": "http://purl.obolibrary.org/obo/miro.obo"
                 }
             ],
+            "repository": "https://github.com/VEuPathDB-ontology/MIRO",
             "taxon": {
                 "id": "NCBITaxon:44484",
                 "label": "Anopheles"
@@ -10143,6 +10145,7 @@
                     "ontology_purl": "http://purl.obolibrary.org/obo/tads.obo"
                 }
             ],
+            "repository": "https://github.com/VEuPathDB-ontology/TADS",
             "taxon": {
                 "id": "NCBITaxon:6939",
                 "label": "Ixodidae"
@@ -10176,6 +10179,7 @@
                     "ontology_purl": "http://purl.obolibrary.org/obo/tgma.obo"
                 }
             ],
+            "repository": "https://github.com/VEuPathDB-ontology/TGMA",
             "taxon": {
                 "id": "NCBITaxon:44484",
                 "label": "Anopheles"

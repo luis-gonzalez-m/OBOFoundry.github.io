@@ -2150,8 +2150,8 @@ _:b122  <http://obofoundry.github.io/vocabulary/checkout>  "git clone https://gi
 <http://purl.obolibrary.org/obo/NCBITaxon_4751>
         <http://www.w3.org/2000/01/rdf-schema#label>  "Fungal" .
 
-_:b123  <http://www.w3.org/2000/01/rdf-schema#label>  "Midori Harris" ;
-        <http://xmlns.com/foaf/0.1/mbox>  "mah79@cam.ac.uk" .
+_:b123  <http://www.w3.org/2000/01/rdf-schema#label>  "Val Wood" ;
+        <http://xmlns.com/foaf/0.1/mbox>  "vw253@cam.ac.uk" .
 
 <http://purl.obolibrary.org/obo/fao.owl>
         <http://www.w3.org/ns/dcat#accessURL>  "http://purl.obolibrary.org/obo/fao.owl" .
@@ -2530,8 +2530,8 @@ _:b142  <http://obofoundry.github.io/vocabulary/method>  "obo2owl" ;
 <http://www.ncbi.nlm.nih.gov/pubmed/23658422>
         <http://purl.org/dc/elements/1.1/title>  "FYPO: The Fission Yeast Phenotype Ontology." .
 
-_:b143  <http://www.w3.org/2000/01/rdf-schema#label>  "Midori Harris" ;
-        <http://xmlns.com/foaf/0.1/mbox>  "mah79@cam.ac.uk" .
+_:b143  <http://www.w3.org/2000/01/rdf-schema#label>  "Val Wood" ;
+        <http://xmlns.com/foaf/0.1/mbox>  "vw253@cam.ac.uk" .
 
 <http://purl.obolibrary.org/obo/fypo.owl>
         <http://www.w3.org/ns/dcat#accessURL>  "http://purl.obolibrary.org/obo/fypo.owl" .
@@ -5924,7 +5924,7 @@ _:b309  <http://www.w3.org/2000/01/rdf-schema#label>  "Pantelis Topalis" ;
 <http://purl.obolibrary.org/obo/NCBITaxon_44484>
         <http://www.w3.org/2000/01/rdf-schema#label>  "Anopheles" .
 
-_:b327  <http://www.w3.org/2000/01/rdf-schema#label>  "C. Louis" ;
+_:b327  <http://www.w3.org/2000/01/rdf-schema#label>  "Christos (Kitsos) Louis" ;
         <http://xmlns.com/foaf/0.1/mbox>  "louis@imbb.forth.gr" .
 
 <http://purl.obolibrary.org/obo/miro.owl>
